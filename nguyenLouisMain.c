@@ -1,9 +1,3 @@
-/* 
-
-© 2024 Louis Nguyen. All rights reserved. 
-
-*/
-
 #include "nguyenLouisHeader.h"
 #include "helper.h"
 
